@@ -14,7 +14,7 @@ Autores: Romero Ana y Sandoval Mario.
 
 
 ## ${\color{orange}HISTORIA}$
----
+
 Estamos en un hospital psiquiátrico, somos el personaje principal quién es hija de la directora del lugar, que recibió una llamada del psiquiátrico diciendo que es "la única que puede ayudarnos", decide ir al lugar a ver qué sucedía.
 
 Tiene un amigo mascota.
@@ -37,12 +37,12 @@ Ahí es cuándo se sale de control todo y el personaje principal ingresa a este 
 
 
 ## ${\color{orange}Instalación}$
----
+
 Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
 
 
 ## ${\color{orange}Contribución}$
----
+
   ### ${\color{white}Guía\space de\space Contribución}$
   
   Hacer un **fork** del repositorio
@@ -57,10 +57,11 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
   
   >[!CAUTION] 
   > Lo siguiente se realiza siempre y cuando las Condiciones de Aprobación estén dadas.
-  ```
-    git push
-    Generar un Pull Request
-  ```
+
+  git push
+  
+  Generar un Pull Request
+  
   > [!TIP]
   > **[¿Cómo hacer un Fork y un Pull Request?](https://www.youtube.com/watch?v=BPns9r76vSI)**.
 
@@ -125,9 +126,10 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
   + *Misc: Cualquier otro recurso que no encaje en las categorías anteriores.*
 
   ### ${\color{white}Nomenclatura\space Recomendada\space para\space la\space Creación\space de\space Archivos\space}$
-*Prefijos y Sufijos*
+  
+  **Prefijos y Sufijos**
 
-    Utilizar prefijos y sufijos descriptivos ayuda a identificar rápidamente el tipo de archivo y su propósito. 
+  *Utilizar prefijos y sufijos descriptivos ayuda a identificar rápidamente el tipo de archivo y su propósito.*
   
   Aquí las convenciones:
 
@@ -168,7 +170,7 @@ Vista de un Pull Request creado
 > Los labels de tareas serán: documentación - bugs - help -  issue - task
 
 ##  ${\color{orange}Aprobación}$
----
+
   _Condiciones_
   - Respetar Estandares de Código y Estructura de Unreal Engine y la Política de Pull Requests.
 
@@ -184,5 +186,5 @@ Vista de un Pull Request creado
 
 
 ## ${\color{orange}Créditos}$
----
+
   AnitaLaHuerfanita - ElMario
