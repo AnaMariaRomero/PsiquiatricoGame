@@ -1,5 +1,5 @@
 #  $${\color{yellow}PSYCHIATRIC\space GAME\space}$$
-Creación de video juego de terror y suspenso hecho en UE5 y Bleder.
+Creación de video juego de terror y suspenso hecho en UE y Blender.
 
 Autores: Romero Ana y Sandoval Mario. 
 
