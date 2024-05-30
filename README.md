@@ -67,7 +67,7 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
 
   ### ${\color{white}Estándares\space de\space Código}$
   - Los nombres de las ramas deben ser: etiqueta-nombreDeLaTarea
-  - Los commits deben tener la siguiente nomenclaruta: etiqueta: queseagregaocrea
+  - Los commits deben tener la siguiente nomenclaruta: etiqueta: queseagregaocreadomde
 
   Ejemplo de commit:
 
@@ -85,7 +85,7 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
   ### ${\color{white}Estándares\space de\space Estructura\space en\space Unreal\space Engine}$
   Blueprints
 
-  - Los Blueprints deben estar organizados, cada sección debe tener un contenedor con el título que informe el qué hace cada parte del BluePrint.
+  - Deben estar organizados, cada sección debe tener un contenedor con el título que informe el qué hace cada parte del BluePrint.
   - Añadir comentarios en los BluePrints en las partes que se pueden modificar, por ejemplo: si el personaje corre y se puede regular su velocidad, indicar con un comentario sobre el valor en donde se puede modificar ese valor.
   
   Estructura de Carpetas
@@ -150,9 +150,9 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
 
 ### ${\color{white}Política\space de\space Pull\space Requests}$   
   
- - Cada Pull Request deberá solucionar solo una tarea sacada del Kanban del Projects.
+ - Cada Pull Request debe solucionar solo una tarea sacada del Kanban del Projects.
  - Cada Pull Request debe funcionar y respetar los Estándares de Código. 
- - Cada Pull Request debe tener un título que debe seguir la siguiente nomenclatura: Etiqueta de tarea: título de tarea
+ - Cada Pull Request debe tener un título que debe seguir la siguiente nomenclatura: Etiqueta de tarea: título de tarea.
  - Cada Pull Request debe tener en su descripción el enlace a la tarea que corresponde. [ver Panel de Tareas](https://github.com/users/AnaMariaRomero/projects/2/views/1)
  - Cada Pull Request debe tener en su descripción el enlace con el video o documentación que se utilizó para resolver la tarea.
 
@@ -176,7 +176,7 @@ Vista de un Pull Request creado
 
 ##  ${\color{orange}Tareas}$
 ---
-  - Las tareas de sacarán del [Panel de Tareas](https://github.com/users/AnaMariaRomero/projects/2/views/1).
+  - Las tareas se sacarán del [Panel de Tareas](https://github.com/users/AnaMariaRomero/projects/2/views/1).
 
   ![Panel de Tareas](/readme-images/Panel%20de%20Tareas.png)
   - Cada tarea nueva a agregar serán discutidas por los miebros del equipo una vez que se encuentre realizado el prototipo.
