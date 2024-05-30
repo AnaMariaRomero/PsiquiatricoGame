@@ -54,6 +54,7 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
   ```
    [¿Cómo hacer un Fork y un Pull Request](https://www.youtube.com/watch?v=BPns9r76vSI)?.
   ### Estándares de Código
+  - Los nombres de las ramas deben ser: etiqueta-nombreDeLaTarea
   - Por ahora es mantener las creaciones en las carpetas correspondientes y mantener el orden.
   - Los Blueprints deben estar organizados, cada sección debe tener un contenedor con el título que informe el qué hace cada parte del BluePrint.
   - Añadir comentarios en los BluePrints en las partes que se pueden modificar, por ejemplo: si el personaje corre y se puede regular su velocidad, indicar con un comentario sobre el valor en donde se puede modificar ese valor.
@@ -82,9 +83,3 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
 
 ## Créditos
   AnitaLaHuerfanita - ElMario
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
