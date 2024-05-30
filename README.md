@@ -68,7 +68,15 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
   - Los nombres de las ramas deben ser: etiqueta-nombreDeLaTarea
   - Los commits deben tener la siguiente nomenclaruta: etiqueta: queseagregaocrea
 
-    ![Commit de referencia](readme-images\commit.png)
+  Ejemplo de commit:
+
+  ![Commit de referencia](readme-images/commit.png)
+
+  Vista de los commits en Github
+
+  ![Commit visual](readme-images/pull%20request%202.png)
+
+  **Notese que el primer commit no tiene bien su nomenclatura.*
 
   > [!NOTE]
   > Los commits no deberían ser largos ni tener más de 5 o 6 acciones. Es mejor hacer paso a paso y llevar un control de cambios para que los miembros del equipo puedan entender cada cambio.
@@ -146,10 +154,18 @@ Se trabajará con la plataforma Unreal Engine (ver version) y Blender.
  - Cada Pull Request debe tener en su descripción el enlace a la tarea que corresponde. [ver Panel de Tareas](https://github.com/users/AnaMariaRomero/projects/2/views/1)
  - Cada Pull Request debe tener en su descripción el enlace con el video o documentación que se utilizó para resolver la tarea.
 
+Ejemplo de creación de un Pull Request:
+
 ![Pull Request](/readme-images/Pull%20Request.png)
 
+Vista de un Pull Request creado
+
+![Pull Request](/readme-images/pull%20request%201.png)
+
+*Notese el uso de los labels*
+
 > [!NOTE]
-> Las etiquetas de tareas serán: Documentación - Bugs - Help -  Issue - Task
+> Los labels de tareas serán: documentación - bugs - help -  issue - task
 
 ##  ${\color{orange}Aprobación}$
 ---
